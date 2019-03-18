@@ -1,18 +1,5 @@
 #include <stdio.h>
 
-/*
-	Q1:d 
-	Q2:d
-	Q3:d
-	Q4:c
-	Q5:d
-	Q6:a
-	Q7:c
-
-
-*/
-
-
 int main(){
 	/* This variable store the user input */
 	unsigned int x;
